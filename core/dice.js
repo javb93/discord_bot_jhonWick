@@ -9,7 +9,7 @@ const Dice = {
       1: "Failure",
       2: "Normal Success",
       3: "Great Success",
-      4: "Extreme Success",
+      4: "Resultado extremo",
       5: "You  are good",
       6: "Just Wow",
     };
