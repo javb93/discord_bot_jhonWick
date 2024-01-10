@@ -10,7 +10,7 @@ const Dice = {
       2: "Normal Success",
       3: "Great Success",
       4: "Extreme Success",
-      5: "You are Jhon Wick",
+      5: "You  are good",
       6: "Just Wow",
     };
     var freq = [];
